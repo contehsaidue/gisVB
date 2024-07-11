@@ -1,0 +1,135 @@
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.exe.config
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.exe
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Guna.UI.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Guna.UI2.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\itextsharp.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\itextsharp.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCourse.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCourseAddData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCourseUpdateData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCreateAccount.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmForgotPassword.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGrade.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGradeAddData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGradeUpdateData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudentAddData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmDashboard.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmOnboardingScreenA.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmOnboardingScreenB.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmSplashScreen.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudent.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudentUpdateData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.Resources.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.vbproj.GenerateResource.Cache
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.exe
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.xml
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.pdb
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmLogin.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmProgram.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmProgramAddData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmProgramUpdateData.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudentIndividualGradesSummaryShow.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmUpdateUserProfile.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmViewAllStudentGrade.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGradeModify.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmViewGradebook.resources
+C:\Users\Saidu\Desktop\GIS Project Design\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.vbprojResolveAssemblyReference.cache
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.exe.config
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.exe
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.exe
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Splashcreen.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Guna.UI2.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\itextsharp.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\EPPlus.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\itextsharp.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\bin\Debug\System.Data.SQLite.xml
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCourse.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCourseAddData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCourseUpdateData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmCreateAccount.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmForgotPassword.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGrade.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGradeAddData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGradeUpdateData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmProgram.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmProgramAddData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmProgramUpdateData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudentAddData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmLogin.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmDashboard.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmOnboardingScreenA.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmOnboardingScreenB.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmSplashScreen.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudent.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmViewAllStudentGrade.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudentIndividualGradesSummaryShow.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmStudentUpdateData.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmUpdateUserProfile.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmGradeModify.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.frmViewGradebook.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.Resources.resources
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.vbproj.GenerateResource.Cache
+C:\Users\Saidu\Desktop\Project\gis\Splashcreen\Splashcreen\obj\Debug\Splashcreen.vbprojResolveAssemblyReference.cache
